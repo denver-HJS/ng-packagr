@@ -89,7 +89,7 @@
     "sinon": "^4.0.0",
     "standard-version": "^4.0.0",
     "ts-node": "^4.0.0",
-    "tsickle": "^0.25.5",
+    "tsickle": "^0.26.0",
     "typescript": "~2.5.1",
     "zone.js": "^0.8.10"
   },
